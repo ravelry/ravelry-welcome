@@ -4,5 +4,5 @@ We don't have any open source projects right now. If you'd like, open an issue i
 
 **-- casey and christina**
 
-PS - if you are interested in the Ravelry API, check out [http://ravelry.com/groups/ravelry-api](ravelry.com/groups/ravelry-api)
+PS - if you are interested in the Ravelry API, check out [http://ravelry.com/groups/ravelry-api](http://ravelry.com/groups/ravelry-api)
 
